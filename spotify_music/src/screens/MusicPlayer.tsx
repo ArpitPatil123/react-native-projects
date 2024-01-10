@@ -1,11 +1,4 @@
-import {
-  Dimensions,
-  FlatList,
-  Image,
-  StyleSheet,
-  Text,
-  View,
-} from 'react-native';
+import {Dimensions, FlatList, Image, StyleSheet, View} from 'react-native';
 import React, {useState} from 'react';
 import TrackPlayer, {
   Event,
@@ -18,8 +11,6 @@ import TrackSlider from '../components/TrackSlider';
 import ControlCenter from '../components/ControlCenter';
 
 const {width} = Dimensions.get('window');
-
-const events = [Event?.PlaybackState, Event?.PlaybackError];
 
 const MusicPlayer = () => {
   const [track, setTrack] = useState<Track | null>();
