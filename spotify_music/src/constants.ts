@@ -8,7 +8,7 @@ export const playListData: Track[] = [
     album: 'Jawaan',
     artwork:
       'https://www.pagalworld.com.se/siteuploads/thumb/sft135/67312_4.jpg',
-    url: require('./assets/audio/Chaleya.mp3'),
+    url: 'https://firebasestorage.googleapis.com/v0/b/spotifyreactnative.appspot.com/o/Chaleya.mp3?alt=media&token=a12fefa8-1131-4fbf-8caf-7863707945f1',
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export const playListData: Track[] = [
     album: 'Shershaah',
     artwork:
       'https://c.saavncdn.com/238/Shershaah-Original-Motion-Picture-Soundtrack--Hindi-2021-20210815181610-500x500.jpg',
-    url: require('./assets/audio/RaataanLambiyan.mp3'),
+    url: 'https://firebasestorage.googleapis.com/v0/b/spotifyreactnative.appspot.com/o/RaataanLambiyan.mp3?alt=media&token=baa38218-2e66-487c-b3e6-c94dfd7c8828',
   },
   {
     id: 3,
@@ -26,7 +26,7 @@ export const playListData: Track[] = [
     album: 'Brahmastra',
     artwork:
       'https://c.saavncdn.com/191/Kesariya-From-Brahmastra-Hindi-2022-20220717092820-500x500.jpg',
-    url: require('./assets/audio/Kesariya.mp3'),
+    url: 'https://firebasestorage.googleapis.com/v0/b/spotifyreactnative.appspot.com/o/Kesariya.mp3?alt=media&token=d396fe4f-826b-4d14-b7f5-7b8e9b23917c',
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ export const playListData: Track[] = [
     album: 'Animal',
     artwork:
       'https://www.pagalworld.com.se/siteuploads/thumb/sft138/68793_4.jpg',
-    url: require('./assets/audio/PehleBhiMainTumseMilaHu.mp3'),
+    url: 'https://firebasestorage.googleapis.com/v0/b/spotifyreactnative.appspot.com/o/PehleBhiMainTumseMilaHu.mp3?alt=media&token=85de0693-b360-4791-bb04-22d1e5754e8e',
   },
   {
     id: 5,
@@ -44,7 +44,7 @@ export const playListData: Track[] = [
     album: 'Shershaah',
     artwork:
       'https://c.saavncdn.com/238/Shershaah-Original-Motion-Picture-Soundtrack--Hindi-2021-20210815181610-500x500.jpg',
-    url: require('./assets/audio/ManBharrya.mp3'),
+    url: 'https://firebasestorage.googleapis.com/v0/b/spotifyreactnative.appspot.com/o/ManBharrya.mp3?alt=media&token=f2aaf006-193f-495f-8fbe-6aefee42c853',
   },
   {
     id: 6,
@@ -53,6 +53,6 @@ export const playListData: Track[] = [
     album: 'Dunki',
     artwork:
       'https://www.pagalworld.com.se/siteuploads/thumb/sft138/68671_4.jpg',
-    url: require('./assets/audio/OMahiOMahi.mp3'),
+    url: 'https://firebasestorage.googleapis.com/v0/b/spotifyreactnative.appspot.com/o/OMahiOMahi.mp3?alt=media&token=486cd367-8ed2-4376-bd9c-b1745a81cefe',
   },
 ];
